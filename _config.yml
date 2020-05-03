@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Oshton Tsen
+description: 'Machine Learning Engineer'
+url: 'https://oshtontsen.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Oshton Tsen'
+  email: oshton.tsen@gmail.com
+  twitter_username: 
+  facebook_username: oshton.tsen
+  github_username:  oshtontsen
+  linkedin_username:  oshton-tsen-09b76b9a
 
 defaults:
   -
